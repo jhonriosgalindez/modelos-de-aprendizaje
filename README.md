@@ -1,4 +1,4 @@
-# Documentación del Proyecto: Modelos de Machine Learning (Cáncer de Mama)
+# Documentación del Proyecto: Modelos de Machine Learning (Cáncer de mama)
 
 ## Descripción
 El presente proyecto tiene como objeto de estudio el análisis de un conjunto de datos médicos sobre el cáncer de mama mediante técnicas de aprendizaje no supervisado. El propósito principal es identificar patrones y grupos con características similares para lograr caracterizar a la población que presenta tumores benignos (B) y malignos (M), sin depender de la variable objetivo durante el entrenamiento del modelo.
